@@ -13,4 +13,4 @@ Below are copies of the carts generated within the file part_2_mars_weather-Anda
 
 
 
-Additionally, in lieu of visual calculating the terrestrial days within a Martian year, a function and a for-loop were created to calculate the year based on the data provided.
+Additionally, in lieu of visually calculating the terrestrial days within a Martian year, a function and a for-loop were created to calculate the year based on the data provided.
